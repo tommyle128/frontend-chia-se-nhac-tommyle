@@ -1,0 +1,17 @@
+body {
+  background: #dedede;
+}
+
+.navbar {
+  background: #ffffff;
+}
+
+.main_content{
+  margin-top: 20px;
+}
+
+.track {
+  background: #ffffff;
+  overflow: hidden;
+  box-shadow: 0 1px 1px #aaaaaa;
+}
