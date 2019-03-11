@@ -1,0 +1,6 @@
+{
+    "mongoPath": "mongodb://tieuhoa:tieuhoa123@ds343895.mlab.com:43895/chia-se-nhac-web17",
+    "sessionSecret": "tieuhoa",
+    "secureCookie": false
+  }
+  
